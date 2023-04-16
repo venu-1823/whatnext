@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-logo {
+    height: 30px;
+}
+
+.nav-color {
+    background-image: linear-gradient(#62CDFF);
+}
+
+.nav-ele {
+    font-size: 20px;
+}
+
+.home-section {
+    background-image: linear-gradient(to top, #AA77FF, #62CDFF);
+    padding-top: 100px;
+    padding-bottom: 70px;
+    height: 100vh;
+}
+
+.home-section-heading {
+    margin-bottom: 50px;
+    font-size: 300%;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 34px;
+    color: #ffffff;
+}
+
+.home-section-heading2 {
+    margin-bottom: 50px;
+    margin-top: 155px;
+    font-size: 400%;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 34px;
+    color: #ffffff;
+}
+
+.nav-color {
+    background-color: #6DC4FF;
+}
+
+.imgg {
+    width: 70vw;
+}
+
+.choosing-a-careerpath-heading {
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: "roboto";
+    color: black;
+}
+
+.choosing-a-careerpath-heading2 {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-family: "roboto";
+    color: black;
+}
+
+.choosing-a-careerpath-paragraph {
+    font-size: 15px;
+    margin-bottom: 30px;
+    font-weight: normal;
+    font-family: "roboto";
+    color: black;
+}
+
+.stages-of-education-image {
+    width: 180px;
+}
+
+/*after 10th page*/
+
+.after10th-heading{
+    font-size: 40px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: "roboto";
+    color: black;
+}
+
+.courses-heading{
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: lighter;
+    font-family: "roboto";
+    color: black;
+}
+.courses-paragraph{
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+}
+.icon-font{
+    font-size: 20px;
+    color: grey;
+}
+.stream-heading{
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: "roboto";
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.motive-paragraph {
+    margin-top: 40px;
+}
+
+.motive-image {
+    height: 200px;
+}
+.follow-us-container{   
+    width: 80px;
+    height: 80px;
+    border-radius: 2000px;
+    background-color: #E3F6FF;
+}
+.follow-us-icon{
+    color: #9DF1DF;
+    margin: 20px;    
+    font-size: 40px;
+}
+.footer-container{
+    background-color: #ECF2FF;
+}
+.footer-image{
+    height: 100px;
+}
+.footer-paragraph{
+    font-size: 20px;
+    color: #959ead;
+    font-weight: 700;
+}
+.footer-paragraph2{
+    font-size: 20px;
+    color: #959ead;
+}
